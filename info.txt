@@ -1,2 +1,0 @@
-django digital-ocean ubuntu user anme - djangodeploy
-digitalocean postgresql db username - djangodbman
